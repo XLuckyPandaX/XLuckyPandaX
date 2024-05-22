@@ -7,9 +7,6 @@ My data visualization are on [Tableau](https://public.tableau.com/app/profile/ja
 
 ![GIF](https://github.com/XLuckyPandaX/XLuckyPandaX/assets/92662842/42baaa28-c201-4bd4-98db-7b5f4b1b2791)
 
-📋 Languages <br/>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 💾 Databases <br/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
