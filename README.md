@@ -3,8 +3,9 @@
 
 Inspiring Data Analyst sharing about my journey and learnings in tech. <br/>
 Obtained a Master Degree in Information Technology at Southern New Hampshire University. <br/>
-My Data Visualization are on [Tableau](https://public.tableau.com/app/profile/jason.le1521/vizzes). <br/>
+My data visualization are on [Tableau](https://public.tableau.com/app/profile/jason.le1521/vizzes). <br/>
 
+![GIF](https://github.com/XLuckyPandaX/XLuckyPandaX/assets/92662842/42baaa28-c201-4bd4-98db-7b5f4b1b2791)
 
 📋 Languages <br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,7 +21,5 @@ My Data Visualization are on [Tableau](https://public.tableau.com/app/profile/ja
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-
 
 
