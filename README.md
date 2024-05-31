@@ -5,6 +5,7 @@ Inspiring Data Analyst sharing about my journey and learnings in tech. <br/>
 Obtained a Master Degree in Information Technology at Southern New Hampshire University. <br/>
 My data visualization are on [Tableau](https://public.tableau.com/app/profile/jason.le1521/vizzes). <br/>
 I enjoy spending time on [Datawars](https://profiles.datawars.io/jasonle210) to practice SQL and Python <br/>
+My [Kaggle profile](https://www.kaggle.com/jasonle210) 
 
 ![GIF](https://github.com/XLuckyPandaX/XLuckyPandaX/assets/92662842/42baaa28-c201-4bd4-98db-7b5f4b1b2791)
 
